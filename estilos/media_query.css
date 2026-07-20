@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+/*celular grande*/
+@media screen and (min-width: 576px) {
+   
+
+    .aviso > p {
+        font-size: 1.8em;
+    }
+
+    h1 {
+        font-size: 2.3em;
+    }
+
+    main > img {
+        
+    }
+
+    main > p {
+        font-size: 1.5em;
+    }
+
+
+    nav > a {
+        font-size: 2.3em;
+    }
+}
