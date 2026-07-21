@@ -44,7 +44,7 @@ h1 > span {
     color: #FBD40B;
 }
 
-main > img {
+main > picture > img {
     border-radius: 50%;
     box-shadow: 0 0 25px #FBD40B;
     border: 4px solid #FBD40B;
@@ -110,6 +110,7 @@ nav > a > img {
     color: #A8A8A8;
       align-items: center;
       display: flex;
+      font-size: 1em;
     
 }
 
